@@ -1,0 +1,14 @@
+
+DAY 1 ✅
+
+-The Link for Templates https://templatemo.com/tm-574-mexant ✔️
+-The link to download admin tempalates https://www.mediafire.com/file/klh7pjr8va3yl03/Course_Excise_Files.zip/file# ✔️
+-Design Home page
+-Register page 
+-Login page 
+-user dashborads
+- USERS OF SYSTEM(
+        +Administrator(Manager) - This is the owner of system
+        +Technician
+        +
+)
